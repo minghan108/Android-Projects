@@ -1,0 +1,19 @@
+
+correctBtn.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+correctdown
+  rotate: false
+  xy: 1, 1
+  size: 240, 232
+  orig: 240, 232
+  offset: 0, 0
+  index: -1
+correctup
+  rotate: false
+  xy: 243, 1
+  size: 240, 232
+  orig: 240, 232
+  offset: 0, 0
+  index: -1

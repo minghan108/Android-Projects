@@ -1,0 +1,19 @@
+
+playBtn.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+playbtndown
+  rotate: false
+  xy: 1, 1
+  size: 174, 157
+  orig: 174, 157
+  offset: 0, 0
+  index: -1
+playbtnup
+  rotate: false
+  xy: 177, 1
+  size: 174, 157
+  orig: 174, 157
+  offset: 0, 0
+  index: -1
